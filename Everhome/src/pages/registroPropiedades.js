@@ -1,10 +1,10 @@
 
 
-function registroPropiedades(){
+function RegistroPropiedades(){
     return(
         <>
         </>
     )
 }
 
-export default registroPropiedades
+export default RegistroPropiedades

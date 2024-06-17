@@ -1,10 +1,10 @@
 
 
-function landingPage(){
+function LandingPage(){
     return(
         <>
         </>
     )
 }
 
-export default landingPage
+export default LandingPage

@@ -1,10 +1,14 @@
+import Navbar from '../navBar'
 
-
-function inicioSesion(){
+function InicioSesion(){
     return(
         <>
+        <Navbar />
+        
+
+
         </>
     )
 }
 
-export default inicioSesion
+export default InicioSesion

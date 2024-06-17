@@ -1,10 +1,10 @@
 
 
-function propiedades(){
+function Propiedades(){
     return(
         <>
         </>
     )
 }
 
-export default propiedades 
+export default Propiedades 
