@@ -1,4 +1,4 @@
-import Navbar from '../navBar'
+import Navbar from '../componentes/navBar'
 
 function InicioSesion(){
     return(
